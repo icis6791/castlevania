@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PLAYER
+  - BOSSWP
+  - BOSSWP_A
+  - BOSSWP_B
+  - SAVE
+  - ATTACK
+  - ROOM
+  - HEALTH
+  - FORCE
+  - PIRATE
+  - ARCHER
+  - BOAR
+  - JUMP
+  - CAMS
+  - HPBAR
+  - GAMEOVER
+  - MANAGER
+  - KARAS
+  - SPAWNA
+  - SPAWNB
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - PLAYER
+  - GROUND
+  - PLATFORM
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1175970947
+    locked: 0
+  - name: MidGround
+    uniqueID: 1725766247
+    locked: 0
+  - name: forGround
+    uniqueID: 3801573151
+    locked: 0

@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 38c3ee9a7926404418f5301705be0dca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: karas_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 616
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8437fc6ca3e124cb15532e3b5b324b
+      internalID: -1269481378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 616
+        width: 30
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89caa04a9b43d743a1ee97c792048be
+      internalID: -662744141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 616
+        width: 28
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e1b2686c1b7c642829edf5bbb8ede3
+      internalID: 1115137512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 616
+        width: 44
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5722a47fa3bf7424e90f00fd6a7dbb63
+      internalID: 535133115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_4
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 604
+        width: 102
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39855072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c628e6d20d8f34aa257ccd9f9daebd
+      internalID: -1831199243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_5
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 594
+        width: 82
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26442307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aee419acc93f04e8f3a6fec3494ff4
+      internalID: 1551458164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 498
+        width: 102
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4296875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c16b4d4f237e07499f4af327c5bf574
+      internalID: -515823736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 498
+        width: 102
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4661017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72de5f8b52fe49e4a97ce3b1367e2509
+      internalID: 1531024847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 505
+        width: 144
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5392157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4d5cc20daf354d9a35187967cc100
+      internalID: -182154777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 501
+        width: 106
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5092593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9467733fbea74fb66579b5a97f6c2
+      internalID: -236728153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_10
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 492
+        width: 82
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27227724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a4c25d5beebfe4abae25a96c3f765b
+      internalID: 302272809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 487
+        width: 68
+        height: 102
+      alignment: 9
+      pivot: {x: 0.36764705, y: 0.26960784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c6ec925357be941bf14edfaba0eb30
+      internalID: 903273378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_12
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 494
+        width: 69
+        height: 95
+      alignment: 9
+      pivot: {x: 0.06376812, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3e30f8ed37bd48a7ea5393da3ef8b
+      internalID: -44204574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_13
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 500
+        width: 92
+        height: 62
+      alignment: 9
+      pivot: {x: 0.75, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a733d035a5984bbb79f8ded05f648
+      internalID: 1587038261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 394
+        width: 79
+        height: 57
+      alignment: 9
+      pivot: {x: 0.84810126, y: 0.5614035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1227cc86de8664e9ae0078ea35f74d
+      internalID: -1389148354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 389
+        width: 126
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41911766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7637754e46c565545839561d53c2547c
+      internalID: 1676599659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 385
+        width: 144
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.68085104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177978a613c63674e829191a4e03e572
+      internalID: 1596966158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_17
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 356
+        width: 28
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ca1d22681114b488a85f9b12fa3d57
+      internalID: -2092163990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_18
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 365
+        width: 58
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.78985506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6369a2e0822d44aaa73cb44a835bba
+      internalID: -1597286233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_19
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 381
+        width: 106
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6458333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14162bec695bedd47b90b276285c9335
+      internalID: 1226721546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_20
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 375
+        width: 108
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dd1ade2a1948248808139a90e310b5
+      internalID: 351839709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 371
+        width: 82
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3069307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffdcfa3da5d93c4ea66d67e62456cc4
+      internalID: -371685686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 257
+        width: 110
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38732395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dcc953f42fafa49ad564f2e8b522c5
+      internalID: 380975496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 255
+        width: 144
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fcd99f31b76b84d92f98b390ded43e
+      internalID: -484772784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_24
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 251
+        width: 82
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28282827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdb39ce58828d740904b22cf8b58f8a
+      internalID: -429670767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 251
+        width: 82
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28282827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e95473d0a688c45a4ede6c1ca2a470
+      internalID: -662462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_26
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 251
+        width: 82
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28282827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594305a89398e3449b5dd77358ba9455
+      internalID: 415437048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_27
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 267
+        width: 128
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5ee1ceaa3a9bc41b9b73ca5d3e506c
+      internalID: -132102407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karas_28
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 299
+        width: 144
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65957445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0080f7df50bca6c48b097a053fe27a9c
+      internalID: -1869369514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      karas_0: -1269481378
+      karas_1: -662744141
+      karas_10: 302272809
+      karas_11: 903273378
+      karas_12: -44204574
+      karas_13: 1587038261
+      karas_14: -1389148354
+      karas_15: 1676599659
+      karas_16: 1596966158
+      karas_17: -2092163990
+      karas_18: -1597286233
+      karas_19: 1226721546
+      karas_2: 1115137512
+      karas_20: 351839709
+      karas_21: -371685686
+      karas_22: 380975496
+      karas_23: -484772784
+      karas_24: -429670767
+      karas_25: -662462
+      karas_26: 415437048
+      karas_27: -132102407
+      karas_28: -1869369514
+      karas_29: -1893942336
+      karas_3: 535133115
+      karas_4: -1831199243
+      karas_5: 1551458164
+      karas_6: -515823736
+      karas_7: 1531024847
+      karas_8: -182154777
+      karas_9: -236728153
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

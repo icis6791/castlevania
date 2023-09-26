@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: ed31c7b80d948ea419497d153222b9b3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Abadon_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1726
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.49677417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ce0272c157d3a41b36fef122121c39
+      internalID: -30410743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1726
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.49677417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa03b2165d23bf47a3ba1d8d9e32e13
+      internalID: 1260079768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1726
+        width: 49
+        height: 62
+      alignment: 9
+      pivot: {x: 0.45918366, y: 0.49677417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a871260e65014d8124a05da887ab4
+      internalID: 1835674835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1630
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52de54fa29fb5ff43a5e835e0a76aabb
+      internalID: -1148604348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1630
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b914244857a74b438d5beb9f03792eb
+      internalID: -1343516017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1502
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.49677417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a4f7bd095685a48b89c4e639ce6539
+      internalID: 588030231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1502
+        width: 67
+        height: 61
+      alignment: 9
+      pivot: {x: 0.619403, y: 0.50491804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f7128f25ea4e24284039766eeb20ee
+      internalID: 1078008173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1502
+        width: 72
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6458333, y: 0.49677417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb00a79ad85f1f4e87708d8c9715870
+      internalID: -1775682790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1374
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fc5374de6002841876cd2a0e002ba4
+      internalID: -1426695680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1374
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.49677417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a896ebdda7df4ab1069e7a0f938ef
+      internalID: 1456314030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1373
+        width: 49
+        height: 56
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a40356acf4eebf4ca6349779a0e24a4
+      internalID: -1013219437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1374
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.50491804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13814551849242541b1be3dca19aedaa
+      internalID: -213211622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1374
+        width: 47
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43617022, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dea7ac670c7b5744bd39be0a1ba925a
+      internalID: 862700775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1278
+        width: 46
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4456522, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e8388ea5c91643ae5683f8fb367d6
+      internalID: 1547471171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1277
+        width: 49
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47959185, y: 0.56607145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0d195661f700343bdcaf852b0565a5
+      internalID: -431281616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 69
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6376812, y: 0.50491804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d7986165cfebd46956d6b387a965c8
+      internalID: -168660700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1150
+        width: 46
+        height: 81
+      alignment: 9
+      pivot: {x: 0.47173914, y: 0.3802469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd1b20a6040caf49a58ac5b80cfaf4a
+      internalID: 1295629734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1150
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5367d5132b96b45b5eda558c996cce
+      internalID: -315648030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1150
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2c85839c2b7fd46a73445f0b4529db
+      internalID: 759110724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1150
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.7407407, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3980c3c6db6f559479ebccfb8861941c
+      internalID: -1754095015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 958
+        width: 71
+        height: 61
+      alignment: 9
+      pivot: {x: 0.64084506, y: 0.50491804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466da1b89d787c419b3e887c116a1b9
+      internalID: -36585783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 958
+        width: 51
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38987342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31aae9487dcaab46a420a7a71d51123
+      internalID: 1636784375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 958
+        width: 95
+        height: 60
+      alignment: 9
+      pivot: {x: 0.68421054, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538f7c680f772384fbf03cadc2a04752
+      internalID: -1531401114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 958
+        width: 91
+        height: 47
+      alignment: 9
+      pivot: {x: 0.67582417, y: 0.65531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57ce471e0f47e498c7392a65aa2465
+      internalID: -1412541582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 958
+        width: 91
+        height: 44
+      alignment: 9
+      pivot: {x: 0.67582417, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b407bc60da85242a16c2cf7327aa6e
+      internalID: -2034671156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 878
+        width: 90
+        height: 44
+      alignment: 9
+      pivot: {x: 0.68333334, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a4e74029b358f4daae5fec5cbcb13c
+      internalID: -117547705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 734
+        width: 80
+        height: 60
+      alignment: 9
+      pivot: {x: 0.375, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a6606112a49ff4c86c7cfd28e6c41b
+      internalID: -1744637782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 734
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.60392153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce1ab81a5df1df42acef8c9a58aa312
+      internalID: 1449727339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 734
+        width: 60
+        height: 51
+      alignment: 9
+      pivot: {x: 0.48333332, y: 0.60392153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e331a606ad7a934b91ceb0726845f94
+      internalID: 927608745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 734
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9b2983510bdc14f980a9fcc90427c8
+      internalID: -194288049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 734
+        width: 42
+        height: 109
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.2825688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6222a7500e4d24c4ca895b2f179a2a4b
+      internalID: 899110947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 494
+        width: 80
+        height: 60
+      alignment: 9
+      pivot: {x: 0.375, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa7e55d1795e94a81ad31e42f575ef
+      internalID: -1365310196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 494
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.60392153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc30cce0d329004598a8bfa067316c8
+      internalID: -1976948515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 494
+        width: 60
+        height: 51
+      alignment: 9
+      pivot: {x: 0.48333332, y: 0.60392153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc56aef0804215240b36d4eb097c7e53
+      internalID: -682445917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 494
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eee0d9d5c620447809d1753a3edb68
+      internalID: 1397053785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 494
+        width: 42
+        height: 109
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.2825688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79bf4871815a8d4ebae155d0ff4675a
+      internalID: -101935106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 382
+        width: 55
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.30495048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db658a939281f04bb5a44d8102fcdd2
+      internalID: 1601412423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_37
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 382
+        width: 65
+        height: 89
+      alignment: 9
+      pivot: {x: 0.43076923, y: 0.3460674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289a95149f1ffdd429666fe4849a2ff0
+      internalID: 110484441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 382
+        width: 88
+        height: 62
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.49677417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d43b0d5097544b459282fedd540707b
+      internalID: 1217879628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_39
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 254
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598bd416469df2b44b7ae10c5317a66a
+      internalID: -10333004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 254
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609f35226371794f8f27c29fd2f76e1
+      internalID: 2057387141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 254
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48eb1b583bdb344c861e8cace0915e1
+      internalID: -920445238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 254
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e16cb0eaa6cf08438f8e13b90ec6005
+      internalID: -1963226475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_46
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 156
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71831f94e086a844482345a8a8690e21
+      internalID: -1326905813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_47
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 154
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938e5da20caeee4ea1dfed6b68956d7
+      internalID: -2101262771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff057baf3ed1ee46b9bc7e7864c19fa
+      internalID: 984437672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 43
+        width: 14
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365597f5de3e7154d888413c40e99b6d
+      internalID: -1237528153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 14
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf2d8f9d637f33449b5dd9ff28a62e9
+      internalID: -1357191011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 44
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b42fd4c644f6bf4dacadf5f33de0fa1
+      internalID: 548271374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe0d5a112f7ba346affb696d170609b
+      internalID: -143959298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abadon_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c685f9d9aa7984ea385f59a339025b
+      internalID: -59984504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Abadon_0: -30410743
+      Abadon_1: 1260079768
+      Abadon_10: -1013219437
+      Abadon_11: -213211622
+      Abadon_12: 862700775
+      Abadon_13: 1547471171
+      Abadon_14: -431281616
+      Abadon_15: -168660700
+      Abadon_16: 1295629734
+      Abadon_17: -315648030
+      Abadon_18: 759110724
+      Abadon_19: -1754095015
+      Abadon_2: 1835674835
+      Abadon_20: -36585783
+      Abadon_21: 1636784375
+      Abadon_22: -1531401114
+      Abadon_23: -1412541582
+      Abadon_24: -2034671156
+      Abadon_25: -117547705
+      Abadon_26: -1744637782
+      Abadon_27: 1449727339
+      Abadon_28: 927608745
+      Abadon_29: -194288049
+      Abadon_3: -1148604348
+      Abadon_30: 899110947
+      Abadon_31: -1365310196
+      Abadon_32: -1976948515
+      Abadon_33: -682445917
+      Abadon_34: 1397053785
+      Abadon_35: -101935106
+      Abadon_36: 1601412423
+      Abadon_37: 110484441
+      Abadon_38: 1217879628
+      Abadon_39: -10333004
+      Abadon_4: -1343516017
+      Abadon_40: 2057387141
+      Abadon_41: -920445238
+      Abadon_42: -1963226475
+      Abadon_43: 1107630519
+      Abadon_44: -1132349589
+      Abadon_45: 598306427
+      Abadon_46: -1326905813
+      Abadon_47: -2101262771
+      Abadon_48: 1201125859
+      Abadon_49: 984437672
+      Abadon_5: 588030231
+      Abadon_50: -1237528153
+      Abadon_51: -1357191011
+      Abadon_52: 548271374
+      Abadon_53: -143959298
+      Abadon_54: -59984504
+      Abadon_6: 1078008173
+      Abadon_7: -1775682790
+      Abadon_8: -1426695680
+      Abadon_9: 1456314030
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
